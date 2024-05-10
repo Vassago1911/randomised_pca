@@ -1,5 +1,0 @@
-``fbpca``
-=========
-
-.. automodule:: fbpca
-   :members:
