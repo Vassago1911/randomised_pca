@@ -1,3 +1,8 @@
+A rewrite of the now archived Facebook PCA code. I only saved the PCA,
+because that's the function I used 99% of the time in the original fbpca.
+
+========================================================================
+
 Principal component analysis.
 
     Constructs a nearly optimal rank-k approximation U diag(s) Va to A,
