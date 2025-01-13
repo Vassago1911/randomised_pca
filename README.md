@@ -85,7 +85,7 @@ Principal component analysis.
     >>> A = A / s[0]
 
     Or, as provided by this file:
-    >>> from randomised_pca pca
+    >>> from randomised_pca import pca
     >>> (U, s, Va) = pca(A, 2, True)
 
     This example produces a rank-2 approximation U diag(s) Va to A such
